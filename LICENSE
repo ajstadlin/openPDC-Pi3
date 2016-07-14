@@ -1,6 +1,18 @@
-The MIT License (MIT)
+The works in this repository derived from the Grid Protection Alliance
+openPDC Project and are Copyright (c) 2016 Grid Protection Alliance
 
-Copyright (c) 2016 //AJ
+The current Grid Protection Alliance openPDC License is posted at:
+
+https://github.com/GridProtectionAlliance/openPDC/blob/master/Source/LICENSE.txt
+
+The MIT License (MIT) applies to any new original content in this repository 
+that may be outside of the scope of the Grid Protection Alliance openPDC Project.
+
+July 14, 2016 //AJ
+
+---------------------
+
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
